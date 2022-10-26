@@ -1,0 +1,242 @@
+C:\ProgramData\Anaconda3\envs\gen_env\python.exe C:/Users/jonathan.kim/PycharmProjects/RF_Diagnosys/RF_Diagnosis_Module.py
+Reference_Data_Columns : ['Unnamed: 0', 'Time Stamp', 'Forward', 'Reverse', 'Frequency', 'Dissipated', 'PA Voltage', 'PA Current', 'Setpoint', 'PA Temperature', 'Rail Setpoint', 'Drive Setpoint', 'Reflection', 'VSWR', 'All Status Flags', 'AC Cycles', 'RF On Time', 'AC On Time', 'FwdWattsSeconds', 'DissWattSeconds', 'FwdHWH', 'DissHWH', 'Gamma Magnitude', 'Gamma Phase', 'Delivered', 'PA01 Current', 'PA02 Current', 'PA03 Current', 'PA04 Current', 'PA05 Current', 'PA06 Current', 'PA07 Current', 'PA08 Current', 'PA09 Current', 'PA10 Current', 'PA11 Current', 'PA12 Current', 'PA13 Current', 'PA14 Current', 'PA15 Current', 'PA16 Current', 'Fan Current', 'PA Voltage1', 'Heatsink Temp', 'Soft Start Volts', 'Ambient Air Temp', 'HK Bias Voltage', 'Pulsing Actual Frequency', 'Pulsing Actual Duty', 'S1 Actual Setpoint', 'S2 Actual Setpoint', 'S1 Reverse', 'S2 Reverse', 'S3 Reverse', 'S4 Reverse', 'S1 Forward', 'S2 Forward', 'S3 Forward', 'S4 Forward', 'S1 Delivered', 'S2 Delivered', 'S3 Delivered', 'S4 Delivered', 'S1 Reflection Ratio', 'S2 Reflection Ratio', 'S3 Reflection Ratio', 'S4 Reflection Ratio', 'S1 V Real', 'S2 V Real', 'S3 V Real', 'S4 V Real', 'S1 V Imag', 'S2 V Imag', 'S3 V Imag', 'S4 V Imag', 'S1 I Real', 'S2 I Real', 'S3 I Real', 'S4 I Real', 'S1 I Imag', 'S2 I Imag', 'S3 I Imag', 'S4 I Imag', 'S1 Z Real', 'S2 Z Real', 'S3 Z Real', 'S4 Z Real', 'S1 Z Imag', 'S2 Z Imag', 'S3 Z Imag', 'S4 Z Imag', 'S1 Gamma Real', 'S2 Gamma Real', 'S3 Gamma Real', 'S4 Gamma Real', 'S1 Gamma Imag', 'S2 Gamma Imag', 'S3 Gamma Imag', 'S4 Gamma Imag', 'S1 Frequency', 'S2 Frequency', 'S3 Frequency', 'S4 Frequency', 'S1 Gamma Mag', 'S2 Gamma Mag', 'S3 Gamma Mag', 'S4 Gamma Mag', 'S1 Gamma Phase', 'S2 Gamma Phase', 'S3 Gamma Phase', 'S4 Gamma Phase', 'S1 Frequency kHz', 'S2 Frequency kHz', 'S3 Frequency kHz', 'S4 Frequency kHz', 'S1 Reflection Coefficient', 'S2 Reflection Coefficient', 'S3 Reflection Coefficient', 'S4 Reflection Coefficient', 'S1 Forward Min', 'S2 Forward Min', 'S3 Forward Min', 'S4 Forward Min', 'S1 Forward Max', 'S2 Forward Max', 'S3 Forward Max', 'S4 Forward Max', 'S1 Reverse Min', 'S2 Reverse Min', 'S3 Reverse Min', 'S4 Reverse Min', 'S1 Reverse Max', 'S2 Reverse Max', 'S3 Reverse Max', 'S4 Reverse Max', 'Pulse Frequency Min', 'Pulse Frequency Max', 'Pulse Frequency Mean', 'Pulse Frequency StdDev', 'Pulse Duty Cycle Min', 'Pulse Duty Cycle Max', 'Pulse Duty Cycle Mean', 'Pulse Duty Cycle StdDev', 'S1 Delivered Min', 'S2 Delivered Min', 'S3 Delivered Min', 'S4 Delivered Min', 'S1 Delivered Max', 'S2 Delivered Max', 'S3 Delivered Max', 'S4 Delivered Max', 'Status Vector', 'Fault Vector', 'MeterFaultVec1', 'MeterFaultVec2', 'HardwareFaultVec1', 'DigitalIOFault', 'HardwareFaultVec2', 'SoftwareFaultVec', 'OrkFaultVec', 'MeterWarningVec1', 'MeterWarningVec2', 'HardwareWarningVec1', 'DigitalIOWarningVec', 'SoftwareWarningVec', 'OrkWarningVec']
+Reference_Data : EDGE 10060A-D11_040144012_7500.csv
+Test_Data : 20220630_203151.csv
+Test_Data_Columns : ['Unnamed: 0', 'Time Stamp', 'Forward', 'Reverse', 'Frequency', 'Dissipated', 'PA Voltage', 'PA Current', 'Setpoint', 'PA Temperature', 'Rail Setpoint', 'Drive Setpoint', 'Reflection', 'VSWR', 'All Status Flags', 'AC Cycles', 'RF On Time', 'AC On Time', 'FwdWattsSeconds', 'DissWattSeconds', 'FwdHWH', 'DissHWH', 'Gamma Magnitude', 'Gamma Phase', 'Delivered', 'PA01 Current', 'PA02 Current', 'PA03 Current', 'PA04 Current', 'PA05 Current', 'PA06 Current', 'PA07 Current', 'PA08 Current', 'PA09 Current', 'PA10 Current', 'PA11 Current', 'PA12 Current', 'PA13 Current', 'PA14 Current', 'PA15 Current', 'PA16 Current', 'Fan Current', 'PA Voltage1', 'Heatsink Temp', 'Soft Start Volts', 'Ambient Air Temp', 'HK Bias Voltage', 'Pulsing Actual Frequency', 'Pulsing Actual Duty', 'S1 Actual Setpoint', 'S2 Actual Setpoint', 'S1 Reverse', 'S2 Reverse', 'S3 Reverse', 'S4 Reverse', 'S1 Forward', 'S2 Forward', 'S3 Forward', 'S4 Forward', 'S1 Delivered', 'S2 Delivered', 'S3 Delivered', 'S4 Delivered', 'S1 Reflection Ratio', 'S2 Reflection Ratio', 'S3 Reflection Ratio', 'S4 Reflection Ratio', 'S1 V Real', 'S2 V Real', 'S3 V Real', 'S4 V Real', 'S1 V Imag', 'S2 V Imag', 'S3 V Imag', 'S4 V Imag', 'S1 I Real', 'S2 I Real', 'S3 I Real', 'S4 I Real', 'S1 I Imag', 'S2 I Imag', 'S3 I Imag', 'S4 I Imag', 'S1 Z Real', 'S2 Z Real', 'S3 Z Real', 'S4 Z Real', 'S1 Z Imag', 'S2 Z Imag', 'S3 Z Imag', 'S4 Z Imag', 'S1 Gamma Real', 'S2 Gamma Real', 'S3 Gamma Real', 'S4 Gamma Real', 'S1 Gamma Imag', 'S2 Gamma Imag', 'S3 Gamma Imag', 'S4 Gamma Imag', 'S1 Frequency', 'S2 Frequency', 'S3 Frequency', 'S4 Frequency', 'S1 Gamma Mag', 'S2 Gamma Mag', 'S3 Gamma Mag', 'S4 Gamma Mag', 'S1 Gamma Phase', 'S2 Gamma Phase', 'S3 Gamma Phase', 'S4 Gamma Phase', 'S1 Frequency kHz', 'S2 Frequency kHz', 'S3 Frequency kHz', 'S4 Frequency kHz', 'S1 Reflection Coefficient', 'S2 Reflection Coefficient', 'S3 Reflection Coefficient', 'S4 Reflection Coefficient', 'S1 Forward Min', 'S2 Forward Min', 'S3 Forward Min', 'S4 Forward Min', 'S1 Forward Max', 'S2 Forward Max', 'S3 Forward Max', 'S4 Forward Max', 'S1 Reverse Min', 'S2 Reverse Min', 'S3 Reverse Min', 'S4 Reverse Min', 'S1 Reverse Max', 'S2 Reverse Max', 'S3 Reverse Max', 'S4 Reverse Max', 'Pulse Frequency Min', 'Pulse Frequency Max', 'Pulse Frequency Mean', 'Pulse Frequency StdDev', 'Pulse Duty Cycle Min', 'Pulse Duty Cycle Max', 'Pulse Duty Cycle Mean', 'Pulse Duty Cycle StdDev', 'S1 Delivered Min', 'S2 Delivered Min', 'S3 Delivered Min', 'S4 Delivered Min', 'S1 Delivered Max', 'S2 Delivered Max', 'S3 Delivered Max', 'S4 Delivered Max', 'Status Vector', 'Fault Vector', 'MeterFaultVec1', 'MeterFaultVec2', 'HardwareFaultVec1', 'DigitalIOFault', 'HardwareFaultVec2', 'SoftwareFaultVec', 'OrkFaultVec', 'MeterWarningVec1', 'MeterWarningVec2', 'HardwareWarningVec1', 'DigitalIOWarningVec', 'SoftwareWarningVec', 'OrkWarningVec']
+Ref_loadings :                        PC1       PC2
+Forward          -0.300781  0.075917
+Reverse          -0.277098  0.086235
+Dissipated       -0.246185 -0.320804
+Rail Setpoint    -0.173456  0.442592
+Drive Setpoint   -0.304898 -0.061857
+PA01 Current     -0.305904 -0.030790
+HK Bias Voltage   0.175982 -0.302435
+Soft Start Volts  0.290104  0.195875
+Setpoint         -0.300782  0.075922
+Gamma Magnitude  -0.153101 -0.406123
+Gamma Phase      -0.202049 -0.397402
+PA02 Current     -0.305787 -0.024493
+PA03 Current     -0.306034 -0.038774
+PA Voltage       -0.152917  0.411083
+Fan Current      -0.000000  0.000000
+Heatsink Temp    -0.274050  0.231663
+Tst_loadings :                        PC1       PC2
+Forward          -0.303138  0.088738
+Reverse          -0.280044  0.135009
+Dissipated       -0.247161 -0.328889
+Rail Setpoint    -0.172308  0.371368
+Drive Setpoint   -0.306308 -0.069823
+PA01 Current     -0.307690 -0.019984
+HK Bias Voltage   0.209502 -0.184169
+Soft Start Volts  0.292829  0.197247
+Setpoint         -0.303138  0.088738
+Gamma Magnitude  -0.153857 -0.435200
+Gamma Phase      -0.210922 -0.416161
+PA02 Current     -0.307582 -0.013604
+PA03 Current     -0.307750 -0.029220
+PA Voltage       -0.155216  0.345343
+Fan Current      -0.000000  0.000000
+Heatsink Temp    -0.217495  0.398688
+20220630_203151.csv Pearson Correlation : 73.7297
+20220630_203151.csv RawData_Similarity_average : 78.8775
+20220630_203151.csv PCA_Similarity_average : 89.0919
+Test_Data : 20220630_203001.csv
+Test_Data_Columns : ['Unnamed: 0', 'Time Stamp', 'Forward', 'Reverse', 'Frequency', 'Dissipated', 'PA Voltage', 'PA Current', 'Setpoint', 'PA Temperature', 'Rail Setpoint', 'Drive Setpoint', 'Reflection', 'VSWR', 'All Status Flags', 'AC Cycles', 'RF On Time', 'AC On Time', 'FwdWattsSeconds', 'DissWattSeconds', 'FwdHWH', 'DissHWH', 'Gamma Magnitude', 'Gamma Phase', 'Delivered', 'PA01 Current', 'PA02 Current', 'PA03 Current', 'PA04 Current', 'PA05 Current', 'PA06 Current', 'PA07 Current', 'PA08 Current', 'PA09 Current', 'PA10 Current', 'PA11 Current', 'PA12 Current', 'PA13 Current', 'PA14 Current', 'PA15 Current', 'PA16 Current', 'Fan Current', 'PA Voltage1', 'Heatsink Temp', 'Soft Start Volts', 'Ambient Air Temp', 'HK Bias Voltage', 'Pulsing Actual Frequency', 'Pulsing Actual Duty', 'S1 Actual Setpoint', 'S2 Actual Setpoint', 'S1 Reverse', 'S2 Reverse', 'S3 Reverse', 'S4 Reverse', 'S1 Forward', 'S2 Forward', 'S3 Forward', 'S4 Forward', 'S1 Delivered', 'S2 Delivered', 'S3 Delivered', 'S4 Delivered', 'S1 Reflection Ratio', 'S2 Reflection Ratio', 'S3 Reflection Ratio', 'S4 Reflection Ratio', 'S1 V Real', 'S2 V Real', 'S3 V Real', 'S4 V Real', 'S1 V Imag', 'S2 V Imag', 'S3 V Imag', 'S4 V Imag', 'S1 I Real', 'S2 I Real', 'S3 I Real', 'S4 I Real', 'S1 I Imag', 'S2 I Imag', 'S3 I Imag', 'S4 I Imag', 'S1 Z Real', 'S2 Z Real', 'S3 Z Real', 'S4 Z Real', 'S1 Z Imag', 'S2 Z Imag', 'S3 Z Imag', 'S4 Z Imag', 'S1 Gamma Real', 'S2 Gamma Real', 'S3 Gamma Real', 'S4 Gamma Real', 'S1 Gamma Imag', 'S2 Gamma Imag', 'S3 Gamma Imag', 'S4 Gamma Imag', 'S1 Frequency', 'S2 Frequency', 'S3 Frequency', 'S4 Frequency', 'S1 Gamma Mag', 'S2 Gamma Mag', 'S3 Gamma Mag', 'S4 Gamma Mag', 'S1 Gamma Phase', 'S2 Gamma Phase', 'S3 Gamma Phase', 'S4 Gamma Phase', 'S1 Frequency kHz', 'S2 Frequency kHz', 'S3 Frequency kHz', 'S4 Frequency kHz', 'S1 Reflection Coefficient', 'S2 Reflection Coefficient', 'S3 Reflection Coefficient', 'S4 Reflection Coefficient', 'S1 Forward Min', 'S2 Forward Min', 'S3 Forward Min', 'S4 Forward Min', 'S1 Forward Max', 'S2 Forward Max', 'S3 Forward Max', 'S4 Forward Max', 'S1 Reverse Min', 'S2 Reverse Min', 'S3 Reverse Min', 'S4 Reverse Min', 'S1 Reverse Max', 'S2 Reverse Max', 'S3 Reverse Max', 'S4 Reverse Max', 'Pulse Frequency Min', 'Pulse Frequency Max', 'Pulse Frequency Mean', 'Pulse Frequency StdDev', 'Pulse Duty Cycle Min', 'Pulse Duty Cycle Max', 'Pulse Duty Cycle Mean', 'Pulse Duty Cycle StdDev', 'S1 Delivered Min', 'S2 Delivered Min', 'S3 Delivered Min', 'S4 Delivered Min', 'S1 Delivered Max', 'S2 Delivered Max', 'S3 Delivered Max', 'S4 Delivered Max', 'Status Vector', 'Fault Vector', 'MeterFaultVec1', 'MeterFaultVec2', 'HardwareFaultVec1', 'DigitalIOFault', 'HardwareFaultVec2', 'SoftwareFaultVec', 'OrkFaultVec', 'MeterWarningVec1', 'MeterWarningVec2', 'HardwareWarningVec1', 'DigitalIOWarningVec', 'SoftwareWarningVec', 'OrkWarningVec']
+Tst_loadings :                        PC1       PC2
+Forward          -0.299463  0.097623
+Reverse          -0.275348  0.138549
+Dissipated       -0.246728 -0.332044
+Rail Setpoint    -0.169526  0.412040
+Drive Setpoint   -0.303471 -0.070090
+PA01 Current     -0.304558 -0.015077
+HK Bias Voltage   0.200688 -0.141090
+Soft Start Volts  0.292941  0.178613
+Setpoint         -0.299463  0.097623
+Gamma Magnitude  -0.158750 -0.446093
+Gamma Phase      -0.207482 -0.437292
+PA02 Current     -0.304429 -0.008353
+PA03 Current     -0.304652 -0.024714
+PA Voltage       -0.154226  0.373620
+Fan Current      -0.000000  0.000000
+Heatsink Temp    -0.258354  0.307032
+20220630_203001.csv Pearson Correlation : 73.7402
+20220630_203001.csv RawData_Similarity_average : 78.8867
+20220630_203001.csv PCA_Similarity_average : 89.6277
+Test_Data : 20220630_202727.csv
+Test_Data_Columns : ['Unnamed: 0', 'Time Stamp', 'Forward', 'Reverse', 'Frequency', 'Dissipated', 'PA Voltage', 'PA Current', 'Setpoint', 'PA Temperature', 'Rail Setpoint', 'Drive Setpoint', 'Reflection', 'VSWR', 'All Status Flags', 'AC Cycles', 'RF On Time', 'AC On Time', 'FwdWattsSeconds', 'DissWattSeconds', 'FwdHWH', 'DissHWH', 'Gamma Magnitude', 'Gamma Phase', 'Delivered', 'PA01 Current', 'PA02 Current', 'PA03 Current', 'PA04 Current', 'PA05 Current', 'PA06 Current', 'PA07 Current', 'PA08 Current', 'PA09 Current', 'PA10 Current', 'PA11 Current', 'PA12 Current', 'PA13 Current', 'PA14 Current', 'PA15 Current', 'PA16 Current', 'Fan Current', 'PA Voltage1', 'Heatsink Temp', 'Soft Start Volts', 'Ambient Air Temp', 'HK Bias Voltage', 'Pulsing Actual Frequency', 'Pulsing Actual Duty', 'S1 Actual Setpoint', 'S2 Actual Setpoint', 'S1 Reverse', 'S2 Reverse', 'S3 Reverse', 'S4 Reverse', 'S1 Forward', 'S2 Forward', 'S3 Forward', 'S4 Forward', 'S1 Delivered', 'S2 Delivered', 'S3 Delivered', 'S4 Delivered', 'S1 Reflection Ratio', 'S2 Reflection Ratio', 'S3 Reflection Ratio', 'S4 Reflection Ratio', 'S1 V Real', 'S2 V Real', 'S3 V Real', 'S4 V Real', 'S1 V Imag', 'S2 V Imag', 'S3 V Imag', 'S4 V Imag', 'S1 I Real', 'S2 I Real', 'S3 I Real', 'S4 I Real', 'S1 I Imag', 'S2 I Imag', 'S3 I Imag', 'S4 I Imag', 'S1 Z Real', 'S2 Z Real', 'S3 Z Real', 'S4 Z Real', 'S1 Z Imag', 'S2 Z Imag', 'S3 Z Imag', 'S4 Z Imag', 'S1 Gamma Real', 'S2 Gamma Real', 'S3 Gamma Real', 'S4 Gamma Real', 'S1 Gamma Imag', 'S2 Gamma Imag', 'S3 Gamma Imag', 'S4 Gamma Imag', 'S1 Frequency', 'S2 Frequency', 'S3 Frequency', 'S4 Frequency', 'S1 Gamma Mag', 'S2 Gamma Mag', 'S3 Gamma Mag', 'S4 Gamma Mag', 'S1 Gamma Phase', 'S2 Gamma Phase', 'S3 Gamma Phase', 'S4 Gamma Phase', 'S1 Frequency kHz', 'S2 Frequency kHz', 'S3 Frequency kHz', 'S4 Frequency kHz', 'S1 Reflection Coefficient', 'S2 Reflection Coefficient', 'S3 Reflection Coefficient', 'S4 Reflection Coefficient', 'S1 Forward Min', 'S2 Forward Min', 'S3 Forward Min', 'S4 Forward Min', 'S1 Forward Max', 'S2 Forward Max', 'S3 Forward Max', 'S4 Forward Max', 'S1 Reverse Min', 'S2 Reverse Min', 'S3 Reverse Min', 'S4 Reverse Min', 'S1 Reverse Max', 'S2 Reverse Max', 'S3 Reverse Max', 'S4 Reverse Max', 'Pulse Frequency Min', 'Pulse Frequency Max', 'Pulse Frequency Mean', 'Pulse Frequency StdDev', 'Pulse Duty Cycle Min', 'Pulse Duty Cycle Max', 'Pulse Duty Cycle Mean', 'Pulse Duty Cycle StdDev', 'S1 Delivered Min', 'S2 Delivered Min', 'S3 Delivered Min', 'S4 Delivered Min', 'S1 Delivered Max', 'S2 Delivered Max', 'S3 Delivered Max', 'S4 Delivered Max', 'Status Vector', 'Fault Vector', 'MeterFaultVec1', 'MeterFaultVec2', 'HardwareFaultVec1', 'DigitalIOFault', 'HardwareFaultVec2', 'SoftwareFaultVec', 'OrkFaultVec', 'MeterWarningVec1', 'MeterWarningVec2', 'HardwareWarningVec1', 'DigitalIOWarningVec', 'SoftwareWarningVec', 'OrkWarningVec']
+Tst_loadings :                        PC1       PC2
+Forward          -0.299332  0.105451
+Reverse          -0.275902  0.147653
+Dissipated       -0.250110 -0.315420
+Rail Setpoint    -0.165819  0.442376
+Drive Setpoint   -0.304450 -0.054060
+PA01 Current     -0.305571 -0.006448
+HK Bias Voltage   0.190265  0.022327
+Soft Start Volts  0.292915  0.177629
+Setpoint         -0.299332  0.105453
+Gamma Magnitude  -0.176017 -0.414943
+Gamma Phase      -0.207631 -0.411749
+PA02 Current     -0.305403  0.000129
+PA03 Current     -0.305777 -0.015125
+PA Voltage       -0.140634  0.437885
+Fan Current      -0.000000  0.000000
+Heatsink Temp    -0.256756  0.303432
+20220630_202727.csv Pearson Correlation : 73.7395
+20220630_202727.csv RawData_Similarity_average : 78.8878
+20220630_202727.csv PCA_Similarity_average : 89.2276
+Test_Data : 20220630_202510.csv
+Test_Data_Columns : ['Unnamed: 0', 'Time Stamp', 'Forward', 'Reverse', 'Frequency', 'Dissipated', 'PA Voltage', 'PA Current', 'Setpoint', 'PA Temperature', 'Rail Setpoint', 'Drive Setpoint', 'Reflection', 'VSWR', 'All Status Flags', 'AC Cycles', 'RF On Time', 'AC On Time', 'FwdWattsSeconds', 'DissWattSeconds', 'FwdHWH', 'DissHWH', 'Gamma Magnitude', 'Gamma Phase', 'Delivered', 'PA01 Current', 'PA02 Current', 'PA03 Current', 'PA04 Current', 'PA05 Current', 'PA06 Current', 'PA07 Current', 'PA08 Current', 'PA09 Current', 'PA10 Current', 'PA11 Current', 'PA12 Current', 'PA13 Current', 'PA14 Current', 'PA15 Current', 'PA16 Current', 'Fan Current', 'PA Voltage1', 'Heatsink Temp', 'Soft Start Volts', 'Ambient Air Temp', 'HK Bias Voltage', 'Pulsing Actual Frequency', 'Pulsing Actual Duty', 'S1 Actual Setpoint', 'S2 Actual Setpoint', 'S1 Reverse', 'S2 Reverse', 'S3 Reverse', 'S4 Reverse', 'S1 Forward', 'S2 Forward', 'S3 Forward', 'S4 Forward', 'S1 Delivered', 'S2 Delivered', 'S3 Delivered', 'S4 Delivered', 'S1 Reflection Ratio', 'S2 Reflection Ratio', 'S3 Reflection Ratio', 'S4 Reflection Ratio', 'S1 V Real', 'S2 V Real', 'S3 V Real', 'S4 V Real', 'S1 V Imag', 'S2 V Imag', 'S3 V Imag', 'S4 V Imag', 'S1 I Real', 'S2 I Real', 'S3 I Real', 'S4 I Real', 'S1 I Imag', 'S2 I Imag', 'S3 I Imag', 'S4 I Imag', 'S1 Z Real', 'S2 Z Real', 'S3 Z Real', 'S4 Z Real', 'S1 Z Imag', 'S2 Z Imag', 'S3 Z Imag', 'S4 Z Imag', 'S1 Gamma Real', 'S2 Gamma Real', 'S3 Gamma Real', 'S4 Gamma Real', 'S1 Gamma Imag', 'S2 Gamma Imag', 'S3 Gamma Imag', 'S4 Gamma Imag', 'S1 Frequency', 'S2 Frequency', 'S3 Frequency', 'S4 Frequency', 'S1 Gamma Mag', 'S2 Gamma Mag', 'S3 Gamma Mag', 'S4 Gamma Mag', 'S1 Gamma Phase', 'S2 Gamma Phase', 'S3 Gamma Phase', 'S4 Gamma Phase', 'S1 Frequency kHz', 'S2 Frequency kHz', 'S3 Frequency kHz', 'S4 Frequency kHz', 'S1 Reflection Coefficient', 'S2 Reflection Coefficient', 'S3 Reflection Coefficient', 'S4 Reflection Coefficient', 'S1 Forward Min', 'S2 Forward Min', 'S3 Forward Min', 'S4 Forward Min', 'S1 Forward Max', 'S2 Forward Max', 'S3 Forward Max', 'S4 Forward Max', 'S1 Reverse Min', 'S2 Reverse Min', 'S3 Reverse Min', 'S4 Reverse Min', 'S1 Reverse Max', 'S2 Reverse Max', 'S3 Reverse Max', 'S4 Reverse Max', 'Pulse Frequency Min', 'Pulse Frequency Max', 'Pulse Frequency Mean', 'Pulse Frequency StdDev', 'Pulse Duty Cycle Min', 'Pulse Duty Cycle Max', 'Pulse Duty Cycle Mean', 'Pulse Duty Cycle StdDev', 'S1 Delivered Min', 'S2 Delivered Min', 'S3 Delivered Min', 'S4 Delivered Min', 'S1 Delivered Max', 'S2 Delivered Max', 'S3 Delivered Max', 'S4 Delivered Max', 'Status Vector', 'Fault Vector', 'MeterFaultVec1', 'MeterFaultVec2', 'HardwareFaultVec1', 'DigitalIOFault', 'HardwareFaultVec2', 'SoftwareFaultVec', 'OrkFaultVec', 'MeterWarningVec1', 'MeterWarningVec2', 'HardwareWarningVec1', 'DigitalIOWarningVec', 'SoftwareWarningVec', 'OrkWarningVec']
+Tst_loadings :                        PC1       PC2
+Forward          -0.299983  0.097997
+Reverse          -0.276433  0.144912
+Dissipated       -0.249943 -0.327880
+Rail Setpoint    -0.170048  0.443960
+Drive Setpoint   -0.305737 -0.059943
+PA01 Current     -0.305835 -0.015373
+HK Bias Voltage   0.148980 -0.127106
+Soft Start Volts  0.293951  0.186864
+Setpoint         -0.299983  0.097997
+Gamma Magnitude  -0.170742 -0.421324
+Gamma Phase      -0.222771 -0.401542
+PA02 Current     -0.305662 -0.008527
+PA03 Current     -0.306017 -0.024591
+PA Voltage       -0.147449  0.420543
+Fan Current      -0.000000  0.000000
+Heatsink Temp    -0.262696  0.289828
+20220630_202510.csv Pearson Correlation : 73.7232
+20220630_202510.csv RawData_Similarity_average : 78.8672
+20220630_202510.csv PCA_Similarity_average : 89.4549
+Test_Data : 20220630_202154.csv
+Test_Data_Columns : ['Unnamed: 0', 'Time Stamp', 'Forward', 'Reverse', 'Frequency', 'Dissipated', 'PA Voltage', 'PA Current', 'Setpoint', 'PA Temperature', 'Rail Setpoint', 'Drive Setpoint', 'Reflection', 'VSWR', 'All Status Flags', 'AC Cycles', 'RF On Time', 'AC On Time', 'FwdWattsSeconds', 'DissWattSeconds', 'FwdHWH', 'DissHWH', 'Gamma Magnitude', 'Gamma Phase', 'Delivered', 'PA01 Current', 'PA02 Current', 'PA03 Current', 'PA04 Current', 'PA05 Current', 'PA06 Current', 'PA07 Current', 'PA08 Current', 'PA09 Current', 'PA10 Current', 'PA11 Current', 'PA12 Current', 'PA13 Current', 'PA14 Current', 'PA15 Current', 'PA16 Current', 'Fan Current', 'PA Voltage1', 'Heatsink Temp', 'Soft Start Volts', 'Ambient Air Temp', 'HK Bias Voltage', 'Pulsing Actual Frequency', 'Pulsing Actual Duty', 'S1 Actual Setpoint', 'S2 Actual Setpoint', 'S1 Reverse', 'S2 Reverse', 'S3 Reverse', 'S4 Reverse', 'S1 Forward', 'S2 Forward', 'S3 Forward', 'S4 Forward', 'S1 Delivered', 'S2 Delivered', 'S3 Delivered', 'S4 Delivered', 'S1 Reflection Ratio', 'S2 Reflection Ratio', 'S3 Reflection Ratio', 'S4 Reflection Ratio', 'S1 V Real', 'S2 V Real', 'S3 V Real', 'S4 V Real', 'S1 V Imag', 'S2 V Imag', 'S3 V Imag', 'S4 V Imag', 'S1 I Real', 'S2 I Real', 'S3 I Real', 'S4 I Real', 'S1 I Imag', 'S2 I Imag', 'S3 I Imag', 'S4 I Imag', 'S1 Z Real', 'S2 Z Real', 'S3 Z Real', 'S4 Z Real', 'S1 Z Imag', 'S2 Z Imag', 'S3 Z Imag', 'S4 Z Imag', 'S1 Gamma Real', 'S2 Gamma Real', 'S3 Gamma Real', 'S4 Gamma Real', 'S1 Gamma Imag', 'S2 Gamma Imag', 'S3 Gamma Imag', 'S4 Gamma Imag', 'S1 Frequency', 'S2 Frequency', 'S3 Frequency', 'S4 Frequency', 'S1 Gamma Mag', 'S2 Gamma Mag', 'S3 Gamma Mag', 'S4 Gamma Mag', 'S1 Gamma Phase', 'S2 Gamma Phase', 'S3 Gamma Phase', 'S4 Gamma Phase', 'S1 Frequency kHz', 'S2 Frequency kHz', 'S3 Frequency kHz', 'S4 Frequency kHz', 'S1 Reflection Coefficient', 'S2 Reflection Coefficient', 'S3 Reflection Coefficient', 'S4 Reflection Coefficient', 'S1 Forward Min', 'S2 Forward Min', 'S3 Forward Min', 'S4 Forward Min', 'S1 Forward Max', 'S2 Forward Max', 'S3 Forward Max', 'S4 Forward Max', 'S1 Reverse Min', 'S2 Reverse Min', 'S3 Reverse Min', 'S4 Reverse Min', 'S1 Reverse Max', 'S2 Reverse Max', 'S3 Reverse Max', 'S4 Reverse Max', 'Pulse Frequency Min', 'Pulse Frequency Max', 'Pulse Frequency Mean', 'Pulse Frequency StdDev', 'Pulse Duty Cycle Min', 'Pulse Duty Cycle Max', 'Pulse Duty Cycle Mean', 'Pulse Duty Cycle StdDev', 'S1 Delivered Min', 'S2 Delivered Min', 'S3 Delivered Min', 'S4 Delivered Min', 'S1 Delivered Max', 'S2 Delivered Max', 'S3 Delivered Max', 'S4 Delivered Max', 'Status Vector', 'Fault Vector', 'MeterFaultVec1', 'MeterFaultVec2', 'HardwareFaultVec1', 'DigitalIOFault', 'HardwareFaultVec2', 'SoftwareFaultVec', 'OrkFaultVec', 'MeterWarningVec1', 'MeterWarningVec2', 'HardwareWarningVec1', 'DigitalIOWarningVec', 'SoftwareWarningVec', 'OrkWarningVec']
+Tst_loadings :                        PC1       PC2
+Forward          -0.303198  0.098198
+Reverse          -0.279310  0.127378
+Dissipated       -0.251069 -0.320917
+Rail Setpoint    -0.169287  0.424393
+Drive Setpoint   -0.307241 -0.059768
+PA01 Current     -0.308782 -0.012610
+HK Bias Voltage   0.141777 -0.129587
+Soft Start Volts  0.294296  0.190659
+Setpoint         -0.303198  0.098200
+Gamma Magnitude  -0.154689 -0.437108
+Gamma Phase      -0.212820 -0.424185
+PA02 Current     -0.308654 -0.006076
+PA03 Current     -0.308945 -0.022104
+PA Voltage       -0.151710  0.396979
+Fan Current      -0.000000  0.000000
+Heatsink Temp    -0.258900  0.308874
+20220630_202154.csv Pearson Correlation : 73.7307
+20220630_202154.csv RawData_Similarity_average : 78.8767
+20220630_202154.csv PCA_Similarity_average : 89.2133
+Test_Data : 20220630_201937.csv
+Test_Data_Columns : ['Unnamed: 0', 'Time Stamp', 'Forward', 'Reverse', 'Frequency', 'Dissipated', 'PA Voltage', 'PA Current', 'Setpoint', 'PA Temperature', 'Rail Setpoint', 'Drive Setpoint', 'Reflection', 'VSWR', 'All Status Flags', 'AC Cycles', 'RF On Time', 'AC On Time', 'FwdWattsSeconds', 'DissWattSeconds', 'FwdHWH', 'DissHWH', 'Gamma Magnitude', 'Gamma Phase', 'Delivered', 'PA01 Current', 'PA02 Current', 'PA03 Current', 'PA04 Current', 'PA05 Current', 'PA06 Current', 'PA07 Current', 'PA08 Current', 'PA09 Current', 'PA10 Current', 'PA11 Current', 'PA12 Current', 'PA13 Current', 'PA14 Current', 'PA15 Current', 'PA16 Current', 'Fan Current', 'PA Voltage1', 'Heatsink Temp', 'Soft Start Volts', 'Ambient Air Temp', 'HK Bias Voltage', 'Pulsing Actual Frequency', 'Pulsing Actual Duty', 'S1 Actual Setpoint', 'S2 Actual Setpoint', 'S1 Reverse', 'S2 Reverse', 'S3 Reverse', 'S4 Reverse', 'S1 Forward', 'S2 Forward', 'S3 Forward', 'S4 Forward', 'S1 Delivered', 'S2 Delivered', 'S3 Delivered', 'S4 Delivered', 'S1 Reflection Ratio', 'S2 Reflection Ratio', 'S3 Reflection Ratio', 'S4 Reflection Ratio', 'S1 V Real', 'S2 V Real', 'S3 V Real', 'S4 V Real', 'S1 V Imag', 'S2 V Imag', 'S3 V Imag', 'S4 V Imag', 'S1 I Real', 'S2 I Real', 'S3 I Real', 'S4 I Real', 'S1 I Imag', 'S2 I Imag', 'S3 I Imag', 'S4 I Imag', 'S1 Z Real', 'S2 Z Real', 'S3 Z Real', 'S4 Z Real', 'S1 Z Imag', 'S2 Z Imag', 'S3 Z Imag', 'S4 Z Imag', 'S1 Gamma Real', 'S2 Gamma Real', 'S3 Gamma Real', 'S4 Gamma Real', 'S1 Gamma Imag', 'S2 Gamma Imag', 'S3 Gamma Imag', 'S4 Gamma Imag', 'S1 Frequency', 'S2 Frequency', 'S3 Frequency', 'S4 Frequency', 'S1 Gamma Mag', 'S2 Gamma Mag', 'S3 Gamma Mag', 'S4 Gamma Mag', 'S1 Gamma Phase', 'S2 Gamma Phase', 'S3 Gamma Phase', 'S4 Gamma Phase', 'S1 Frequency kHz', 'S2 Frequency kHz', 'S3 Frequency kHz', 'S4 Frequency kHz', 'S1 Reflection Coefficient', 'S2 Reflection Coefficient', 'S3 Reflection Coefficient', 'S4 Reflection Coefficient', 'S1 Forward Min', 'S2 Forward Min', 'S3 Forward Min', 'S4 Forward Min', 'S1 Forward Max', 'S2 Forward Max', 'S3 Forward Max', 'S4 Forward Max', 'S1 Reverse Min', 'S2 Reverse Min', 'S3 Reverse Min', 'S4 Reverse Min', 'S1 Reverse Max', 'S2 Reverse Max', 'S3 Reverse Max', 'S4 Reverse Max', 'Pulse Frequency Min', 'Pulse Frequency Max', 'Pulse Frequency Mean', 'Pulse Frequency StdDev', 'Pulse Duty Cycle Min', 'Pulse Duty Cycle Max', 'Pulse Duty Cycle Mean', 'Pulse Duty Cycle StdDev', 'S1 Delivered Min', 'S2 Delivered Min', 'S3 Delivered Min', 'S4 Delivered Min', 'S1 Delivered Max', 'S2 Delivered Max', 'S3 Delivered Max', 'S4 Delivered Max', 'Status Vector', 'Fault Vector', 'MeterFaultVec1', 'MeterFaultVec2', 'HardwareFaultVec1', 'DigitalIOFault', 'HardwareFaultVec2', 'SoftwareFaultVec', 'OrkFaultVec', 'MeterWarningVec1', 'MeterWarningVec2', 'HardwareWarningVec1', 'DigitalIOWarningVec', 'SoftwareWarningVec', 'OrkWarningVec']
+Tst_loadings :                        PC1       PC2
+Forward          -0.300173  0.097300
+Reverse          -0.276422  0.133388
+Dissipated       -0.245869 -0.335251
+Rail Setpoint    -0.168661  0.408895
+Drive Setpoint   -0.303786 -0.067007
+PA01 Current     -0.305097 -0.015765
+HK Bias Voltage   0.211852 -0.159176
+Soft Start Volts  0.289457  0.198126
+Setpoint         -0.300173  0.097300
+Gamma Magnitude  -0.141435 -0.442966
+Gamma Phase      -0.208024 -0.431350
+PA02 Current     -0.305011 -0.009024
+PA03 Current     -0.305193 -0.025233
+PA Voltage       -0.143544  0.393783
+Fan Current      -0.000000  0.000000
+Heatsink Temp    -0.265314  0.276207
+20220630_201937.csv Pearson Correlation : 73.7502
+20220630_201937.csv RawData_Similarity_average : 78.8955
+20220630_201937.csv PCA_Similarity_average : 89.3301
+Test_Data : 20220630_201720.csv
+Test_Data_Columns : ['Unnamed: 0', 'Time Stamp', 'Forward', 'Reverse', 'Frequency', 'Dissipated', 'PA Voltage', 'PA Current', 'Setpoint', 'PA Temperature', 'Rail Setpoint', 'Drive Setpoint', 'Reflection', 'VSWR', 'All Status Flags', 'AC Cycles', 'RF On Time', 'AC On Time', 'FwdWattsSeconds', 'DissWattSeconds', 'FwdHWH', 'DissHWH', 'Gamma Magnitude', 'Gamma Phase', 'Delivered', 'PA01 Current', 'PA02 Current', 'PA03 Current', 'PA04 Current', 'PA05 Current', 'PA06 Current', 'PA07 Current', 'PA08 Current', 'PA09 Current', 'PA10 Current', 'PA11 Current', 'PA12 Current', 'PA13 Current', 'PA14 Current', 'PA15 Current', 'PA16 Current', 'Fan Current', 'PA Voltage1', 'Heatsink Temp', 'Soft Start Volts', 'Ambient Air Temp', 'HK Bias Voltage', 'Pulsing Actual Frequency', 'Pulsing Actual Duty', 'S1 Actual Setpoint', 'S2 Actual Setpoint', 'S1 Reverse', 'S2 Reverse', 'S3 Reverse', 'S4 Reverse', 'S1 Forward', 'S2 Forward', 'S3 Forward', 'S4 Forward', 'S1 Delivered', 'S2 Delivered', 'S3 Delivered', 'S4 Delivered', 'S1 Reflection Ratio', 'S2 Reflection Ratio', 'S3 Reflection Ratio', 'S4 Reflection Ratio', 'S1 V Real', 'S2 V Real', 'S3 V Real', 'S4 V Real', 'S1 V Imag', 'S2 V Imag', 'S3 V Imag', 'S4 V Imag', 'S1 I Real', 'S2 I Real', 'S3 I Real', 'S4 I Real', 'S1 I Imag', 'S2 I Imag', 'S3 I Imag', 'S4 I Imag', 'S1 Z Real', 'S2 Z Real', 'S3 Z Real', 'S4 Z Real', 'S1 Z Imag', 'S2 Z Imag', 'S3 Z Imag', 'S4 Z Imag', 'S1 Gamma Real', 'S2 Gamma Real', 'S3 Gamma Real', 'S4 Gamma Real', 'S1 Gamma Imag', 'S2 Gamma Imag', 'S3 Gamma Imag', 'S4 Gamma Imag', 'S1 Frequency', 'S2 Frequency', 'S3 Frequency', 'S4 Frequency', 'S1 Gamma Mag', 'S2 Gamma Mag', 'S3 Gamma Mag', 'S4 Gamma Mag', 'S1 Gamma Phase', 'S2 Gamma Phase', 'S3 Gamma Phase', 'S4 Gamma Phase', 'S1 Frequency kHz', 'S2 Frequency kHz', 'S3 Frequency kHz', 'S4 Frequency kHz', 'S1 Reflection Coefficient', 'S2 Reflection Coefficient', 'S3 Reflection Coefficient', 'S4 Reflection Coefficient', 'S1 Forward Min', 'S2 Forward Min', 'S3 Forward Min', 'S4 Forward Min', 'S1 Forward Max', 'S2 Forward Max', 'S3 Forward Max', 'S4 Forward Max', 'S1 Reverse Min', 'S2 Reverse Min', 'S3 Reverse Min', 'S4 Reverse Min', 'S1 Reverse Max', 'S2 Reverse Max', 'S3 Reverse Max', 'S4 Reverse Max', 'Pulse Frequency Min', 'Pulse Frequency Max', 'Pulse Frequency Mean', 'Pulse Frequency StdDev', 'Pulse Duty Cycle Min', 'Pulse Duty Cycle Max', 'Pulse Duty Cycle Mean', 'Pulse Duty Cycle StdDev', 'S1 Delivered Min', 'S2 Delivered Min', 'S3 Delivered Min', 'S4 Delivered Min', 'S1 Delivered Max', 'S2 Delivered Max', 'S3 Delivered Max', 'S4 Delivered Max', 'Status Vector', 'Fault Vector', 'MeterFaultVec1', 'MeterFaultVec2', 'HardwareFaultVec1', 'DigitalIOFault', 'HardwareFaultVec2', 'SoftwareFaultVec', 'OrkFaultVec', 'MeterWarningVec1', 'MeterWarningVec2', 'HardwareWarningVec1', 'DigitalIOWarningVec', 'SoftwareWarningVec', 'OrkWarningVec']
+Tst_loadings :                        PC1       PC2
+Forward          -0.301443  0.090239
+Reverse          -0.278672  0.126484
+Dissipated       -0.246251 -0.336806
+Rail Setpoint    -0.171546  0.392227
+Drive Setpoint   -0.304971 -0.069921
+PA01 Current     -0.306165 -0.021475
+HK Bias Voltage   0.204715 -0.226568
+Soft Start Volts  0.287255  0.221162
+Setpoint         -0.301443  0.090242
+Gamma Magnitude  -0.148891 -0.419646
+Gamma Phase      -0.213501 -0.418363
+PA02 Current     -0.306097 -0.014444
+PA03 Current     -0.306257 -0.030779
+PA Voltage       -0.146604  0.361561
+Fan Current      -0.000000  0.000000
+Heatsink Temp    -0.250275  0.334403
+20220630_201720.csv Pearson Correlation : 73.7397
+20220630_201720.csv RawData_Similarity_average : 78.8886
+20220630_201720.csv PCA_Similarity_average : 88.9967
+Test_Data : 20220630_201425.csv
+Test_Data_Columns : ['Unnamed: 0', 'Time Stamp', 'Forward', 'Reverse', 'Frequency', 'Dissipated', 'PA Voltage', 'PA Current', 'Setpoint', 'PA Temperature', 'Rail Setpoint', 'Drive Setpoint', 'Reflection', 'VSWR', 'All Status Flags', 'AC Cycles', 'RF On Time', 'AC On Time', 'FwdWattsSeconds', 'DissWattSeconds', 'FwdHWH', 'DissHWH', 'Gamma Magnitude', 'Gamma Phase', 'Delivered', 'PA01 Current', 'PA02 Current', 'PA03 Current', 'PA04 Current', 'PA05 Current', 'PA06 Current', 'PA07 Current', 'PA08 Current', 'PA09 Current', 'PA10 Current', 'PA11 Current', 'PA12 Current', 'PA13 Current', 'PA14 Current', 'PA15 Current', 'PA16 Current', 'Fan Current', 'PA Voltage1', 'Heatsink Temp', 'Soft Start Volts', 'Ambient Air Temp', 'HK Bias Voltage', 'Pulsing Actual Frequency', 'Pulsing Actual Duty', 'S1 Actual Setpoint', 'S2 Actual Setpoint', 'S1 Reverse', 'S2 Reverse', 'S3 Reverse', 'S4 Reverse', 'S1 Forward', 'S2 Forward', 'S3 Forward', 'S4 Forward', 'S1 Delivered', 'S2 Delivered', 'S3 Delivered', 'S4 Delivered', 'S1 Reflection Ratio', 'S2 Reflection Ratio', 'S3 Reflection Ratio', 'S4 Reflection Ratio', 'S1 V Real', 'S2 V Real', 'S3 V Real', 'S4 V Real', 'S1 V Imag', 'S2 V Imag', 'S3 V Imag', 'S4 V Imag', 'S1 I Real', 'S2 I Real', 'S3 I Real', 'S4 I Real', 'S1 I Imag', 'S2 I Imag', 'S3 I Imag', 'S4 I Imag', 'S1 Z Real', 'S2 Z Real', 'S3 Z Real', 'S4 Z Real', 'S1 Z Imag', 'S2 Z Imag', 'S3 Z Imag', 'S4 Z Imag', 'S1 Gamma Real', 'S2 Gamma Real', 'S3 Gamma Real', 'S4 Gamma Real', 'S1 Gamma Imag', 'S2 Gamma Imag', 'S3 Gamma Imag', 'S4 Gamma Imag', 'S1 Frequency', 'S2 Frequency', 'S3 Frequency', 'S4 Frequency', 'S1 Gamma Mag', 'S2 Gamma Mag', 'S3 Gamma Mag', 'S4 Gamma Mag', 'S1 Gamma Phase', 'S2 Gamma Phase', 'S3 Gamma Phase', 'S4 Gamma Phase', 'S1 Frequency kHz', 'S2 Frequency kHz', 'S3 Frequency kHz', 'S4 Frequency kHz', 'S1 Reflection Coefficient', 'S2 Reflection Coefficient', 'S3 Reflection Coefficient', 'S4 Reflection Coefficient', 'S1 Forward Min', 'S2 Forward Min', 'S3 Forward Min', 'S4 Forward Min', 'S1 Forward Max', 'S2 Forward Max', 'S3 Forward Max', 'S4 Forward Max', 'S1 Reverse Min', 'S2 Reverse Min', 'S3 Reverse Min', 'S4 Reverse Min', 'S1 Reverse Max', 'S2 Reverse Max', 'S3 Reverse Max', 'S4 Reverse Max', 'Pulse Frequency Min', 'Pulse Frequency Max', 'Pulse Frequency Mean', 'Pulse Frequency StdDev', 'Pulse Duty Cycle Min', 'Pulse Duty Cycle Max', 'Pulse Duty Cycle Mean', 'Pulse Duty Cycle StdDev', 'S1 Delivered Min', 'S2 Delivered Min', 'S3 Delivered Min', 'S4 Delivered Min', 'S1 Delivered Max', 'S2 Delivered Max', 'S3 Delivered Max', 'S4 Delivered Max', 'Status Vector', 'Fault Vector', 'MeterFaultVec1', 'MeterFaultVec2', 'HardwareFaultVec1', 'DigitalIOFault', 'HardwareFaultVec2', 'SoftwareFaultVec', 'OrkFaultVec', 'MeterWarningVec1', 'MeterWarningVec2', 'HardwareWarningVec1', 'DigitalIOWarningVec', 'SoftwareWarningVec', 'OrkWarningVec']
+Tst_loadings :                        PC1       PC2
+Forward          -0.303241  0.095923
+Reverse          -0.279525  0.123166
+Dissipated       -0.250203 -0.320123
+Rail Setpoint    -0.170654  0.401205
+Drive Setpoint   -0.307347 -0.063256
+PA01 Current     -0.308570 -0.013894
+HK Bias Voltage   0.179751 -0.159705
+Soft Start Volts  0.291270  0.209656
+Setpoint         -0.303241  0.095923
+Gamma Magnitude  -0.144841 -0.444955
+Gamma Phase      -0.207577 -0.424045
+PA02 Current     -0.308440 -0.007427
+PA03 Current     -0.308689 -0.022896
+PA Voltage       -0.143291  0.382160
+Fan Current      -0.000000  0.000000
+Heatsink Temp    -0.253733  0.323888
+20220630_201425.csv Pearson Correlation : 73.7332
+20220630_201425.csv RawData_Similarity_average : 78.8813
+20220630_201425.csv PCA_Similarity_average : 89.5442
+Test_Data : 20220630_201224.csv
+Test_Data_Columns : ['Unnamed: 0', 'Time Stamp', 'Forward', 'Reverse', 'Frequency', 'Dissipated', 'PA Voltage', 'PA Current', 'Setpoint', 'PA Temperature', 'Rail Setpoint', 'Drive Setpoint', 'Reflection', 'VSWR', 'All Status Flags', 'AC Cycles', 'RF On Time', 'AC On Time', 'FwdWattsSeconds', 'DissWattSeconds', 'FwdHWH', 'DissHWH', 'Gamma Magnitude', 'Gamma Phase', 'Delivered', 'PA01 Current', 'PA02 Current', 'PA03 Current', 'PA04 Current', 'PA05 Current', 'PA06 Current', 'PA07 Current', 'PA08 Current', 'PA09 Current', 'PA10 Current', 'PA11 Current', 'PA12 Current', 'PA13 Current', 'PA14 Current', 'PA15 Current', 'PA16 Current', 'Fan Current', 'PA Voltage1', 'Heatsink Temp', 'Soft Start Volts', 'Ambient Air Temp', 'HK Bias Voltage', 'Pulsing Actual Frequency', 'Pulsing Actual Duty', 'S1 Actual Setpoint', 'S2 Actual Setpoint', 'S1 Reverse', 'S2 Reverse', 'S3 Reverse', 'S4 Reverse', 'S1 Forward', 'S2 Forward', 'S3 Forward', 'S4 Forward', 'S1 Delivered', 'S2 Delivered', 'S3 Delivered', 'S4 Delivered', 'S1 Reflection Ratio', 'S2 Reflection Ratio', 'S3 Reflection Ratio', 'S4 Reflection Ratio', 'S1 V Real', 'S2 V Real', 'S3 V Real', 'S4 V Real', 'S1 V Imag', 'S2 V Imag', 'S3 V Imag', 'S4 V Imag', 'S1 I Real', 'S2 I Real', 'S3 I Real', 'S4 I Real', 'S1 I Imag', 'S2 I Imag', 'S3 I Imag', 'S4 I Imag', 'S1 Z Real', 'S2 Z Real', 'S3 Z Real', 'S4 Z Real', 'S1 Z Imag', 'S2 Z Imag', 'S3 Z Imag', 'S4 Z Imag', 'S1 Gamma Real', 'S2 Gamma Real', 'S3 Gamma Real', 'S4 Gamma Real', 'S1 Gamma Imag', 'S2 Gamma Imag', 'S3 Gamma Imag', 'S4 Gamma Imag', 'S1 Frequency', 'S2 Frequency', 'S3 Frequency', 'S4 Frequency', 'S1 Gamma Mag', 'S2 Gamma Mag', 'S3 Gamma Mag', 'S4 Gamma Mag', 'S1 Gamma Phase', 'S2 Gamma Phase', 'S3 Gamma Phase', 'S4 Gamma Phase', 'S1 Frequency kHz', 'S2 Frequency kHz', 'S3 Frequency kHz', 'S4 Frequency kHz', 'S1 Reflection Coefficient', 'S2 Reflection Coefficient', 'S3 Reflection Coefficient', 'S4 Reflection Coefficient', 'S1 Forward Min', 'S2 Forward Min', 'S3 Forward Min', 'S4 Forward Min', 'S1 Forward Max', 'S2 Forward Max', 'S3 Forward Max', 'S4 Forward Max', 'S1 Reverse Min', 'S2 Reverse Min', 'S3 Reverse Min', 'S4 Reverse Min', 'S1 Reverse Max', 'S2 Reverse Max', 'S3 Reverse Max', 'S4 Reverse Max', 'Pulse Frequency Min', 'Pulse Frequency Max', 'Pulse Frequency Mean', 'Pulse Frequency StdDev', 'Pulse Duty Cycle Min', 'Pulse Duty Cycle Max', 'Pulse Duty Cycle Mean', 'Pulse Duty Cycle StdDev', 'S1 Delivered Min', 'S2 Delivered Min', 'S3 Delivered Min', 'S4 Delivered Min', 'S1 Delivered Max', 'S2 Delivered Max', 'S3 Delivered Max', 'S4 Delivered Max', 'Status Vector', 'Fault Vector', 'MeterFaultVec1', 'MeterFaultVec2', 'HardwareFaultVec1', 'DigitalIOFault', 'HardwareFaultVec2', 'SoftwareFaultVec', 'OrkFaultVec', 'MeterWarningVec1', 'MeterWarningVec2', 'HardwareWarningVec1', 'DigitalIOWarningVec', 'SoftwareWarningVec', 'OrkWarningVec']
+Tst_loadings :                        PC1       PC2
+Forward          -0.302559  0.092626
+Reverse          -0.279136  0.117859
+Dissipated       -0.246839 -0.335544
+Rail Setpoint    -0.171750  0.400393
+Drive Setpoint   -0.306072 -0.070289
+PA01 Current     -0.307327 -0.019049
+HK Bias Voltage   0.180686 -0.217275
+Soft Start Volts  0.290215  0.207748
+Setpoint         -0.302559  0.092626
+Gamma Magnitude  -0.136267 -0.430850
+Gamma Phase      -0.209659 -0.429739
+PA02 Current     -0.307215 -0.012640
+PA03 Current     -0.307405 -0.028427
+PA Voltage       -0.152844  0.377200
+Fan Current      -0.000000  0.000000
+Heatsink Temp    -0.262305  0.294651
+20220630_201224.csv Pearson Correlation : 73.741
+20220630_201224.csv RawData_Similarity_average : 78.8894
+20220630_201224.csv PCA_Similarity_average : 89.6764
+Test_Data : 20220630_201005.csv
+Test_Data_Columns : ['Unnamed: 0', 'Time Stamp', 'Forward', 'Reverse', 'Frequency', 'Dissipated', 'PA Voltage', 'PA Current', 'Setpoint', 'PA Temperature', 'Rail Setpoint', 'Drive Setpoint', 'Reflection', 'VSWR', 'All Status Flags', 'AC Cycles', 'RF On Time', 'AC On Time', 'FwdWattsSeconds', 'DissWattSeconds', 'FwdHWH', 'DissHWH', 'Gamma Magnitude', 'Gamma Phase', 'Delivered', 'PA01 Current', 'PA02 Current', 'PA03 Current', 'PA04 Current', 'PA05 Current', 'PA06 Current', 'PA07 Current', 'PA08 Current', 'PA09 Current', 'PA10 Current', 'PA11 Current', 'PA12 Current', 'PA13 Current', 'PA14 Current', 'PA15 Current', 'PA16 Current', 'Fan Current', 'PA Voltage1', 'Heatsink Temp', 'Soft Start Volts', 'Ambient Air Temp', 'HK Bias Voltage', 'Pulsing Actual Frequency', 'Pulsing Actual Duty', 'S1 Actual Setpoint', 'S2 Actual Setpoint', 'S1 Reverse', 'S2 Reverse', 'S3 Reverse', 'S4 Reverse', 'S1 Forward', 'S2 Forward', 'S3 Forward', 'S4 Forward', 'S1 Delivered', 'S2 Delivered', 'S3 Delivered', 'S4 Delivered', 'S1 Reflection Ratio', 'S2 Reflection Ratio', 'S3 Reflection Ratio', 'S4 Reflection Ratio', 'S1 V Real', 'S2 V Real', 'S3 V Real', 'S4 V Real', 'S1 V Imag', 'S2 V Imag', 'S3 V Imag', 'S4 V Imag', 'S1 I Real', 'S2 I Real', 'S3 I Real', 'S4 I Real', 'S1 I Imag', 'S2 I Imag', 'S3 I Imag', 'S4 I Imag', 'S1 Z Real', 'S2 Z Real', 'S3 Z Real', 'S4 Z Real', 'S1 Z Imag', 'S2 Z Imag', 'S3 Z Imag', 'S4 Z Imag', 'S1 Gamma Real', 'S2 Gamma Real', 'S3 Gamma Real', 'S4 Gamma Real', 'S1 Gamma Imag', 'S2 Gamma Imag', 'S3 Gamma Imag', 'S4 Gamma Imag', 'S1 Frequency', 'S2 Frequency', 'S3 Frequency', 'S4 Frequency', 'S1 Gamma Mag', 'S2 Gamma Mag', 'S3 Gamma Mag', 'S4 Gamma Mag', 'S1 Gamma Phase', 'S2 Gamma Phase', 'S3 Gamma Phase', 'S4 Gamma Phase', 'S1 Frequency kHz', 'S2 Frequency kHz', 'S3 Frequency kHz', 'S4 Frequency kHz', 'S1 Reflection Coefficient', 'S2 Reflection Coefficient', 'S3 Reflection Coefficient', 'S4 Reflection Coefficient', 'S1 Forward Min', 'S2 Forward Min', 'S3 Forward Min', 'S4 Forward Min', 'S1 Forward Max', 'S2 Forward Max', 'S3 Forward Max', 'S4 Forward Max', 'S1 Reverse Min', 'S2 Reverse Min', 'S3 Reverse Min', 'S4 Reverse Min', 'S1 Reverse Max', 'S2 Reverse Max', 'S3 Reverse Max', 'S4 Reverse Max', 'Pulse Frequency Min', 'Pulse Frequency Max', 'Pulse Frequency Mean', 'Pulse Frequency StdDev', 'Pulse Duty Cycle Min', 'Pulse Duty Cycle Max', 'Pulse Duty Cycle Mean', 'Pulse Duty Cycle StdDev', 'S1 Delivered Min', 'S2 Delivered Min', 'S3 Delivered Min', 'S4 Delivered Min', 'S1 Delivered Max', 'S2 Delivered Max', 'S3 Delivered Max', 'S4 Delivered Max', 'Status Vector', 'Fault Vector', 'MeterFaultVec1', 'MeterFaultVec2', 'HardwareFaultVec1', 'DigitalIOFault', 'HardwareFaultVec2', 'SoftwareFaultVec', 'OrkFaultVec', 'MeterWarningVec1', 'MeterWarningVec2', 'HardwareWarningVec1', 'DigitalIOWarningVec', 'SoftwareWarningVec', 'OrkWarningVec']
+Tst_loadings :                        PC1       PC2
+Forward          -0.301201  0.090358
+Reverse          -0.277828  0.113012
+Dissipated       -0.245927 -0.332572
+Rail Setpoint    -0.169823  0.426772
+Drive Setpoint   -0.304684 -0.065461
+PA01 Current     -0.306105 -0.021581
+HK Bias Voltage   0.198899 -0.181523
+Soft Start Volts  0.290141  0.205089
+Setpoint         -0.301201  0.090363
+Gamma Magnitude  -0.142477 -0.412227
+Gamma Phase      -0.206625 -0.422932
+PA02 Current     -0.305999 -0.015005
+PA03 Current     -0.306185 -0.030869
+PA Voltage       -0.142000  0.411057
+Fan Current      -0.000000  0.000000
+Heatsink Temp    -0.266890  0.281864
+20220630_201005.csv Pearson Correlation : 73.7238
+20220630_201005.csv RawData_Similarity_average : 78.8692
+20220630_201005.csv PCA_Similarity_average : 89.2523
+
+Process finished with exit code 0

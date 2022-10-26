@@ -1,0 +1,13 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="PF_Scripts.pf2_serial.SomeError" />
+          <option value="Load_Pull_Test.test.Test.PF2_HO5_DVT_Test.SomeError" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
